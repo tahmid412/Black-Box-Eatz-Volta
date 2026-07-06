@@ -1,1 +1,7 @@
-# Black-Box-Eatz-Volta
+<!DOCTYPE html>
+<html lang="en"><head><meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1.0"><title>Gallery | Black Box Eatz</title><link rel="stylesheet" href="css/styles.css"></head>
+<body><header class="site-header"><nav class="navbar"><a href="index.html" class="logo"><span>Black</span> Box Eatz</a><button class="nav-toggle" aria-label="Open navigation">☰</button><ul class="nav-links"><li><a href="index.html">Home</a></li><li><a href="menu.html">Menu</a></li><li><a class="active" href="gallery.html">Gallery</a></li><li><a href="story.html">Our Story</a></li><li><a href="contact.html">Contact</a></li></ul></nav></header>
+<main><section class="page-hero"><p class="eyebrow">Food that photographs well</p><h1>Gallery</h1><p>A colorful visual layout using custom CSS food-inspired image blocks.</p></section>
+<section class="gallery-grid section-pad">
+<div class="gallery-tile tile1"><span>Jerk Chicken</span></div><div class="gallery-tile tile2"><span>Rasta Pasta</span></div><div class="gallery-tile tile3"><span>Plantains</span></div><div class="gallery-tile tile4"><span>Mac & Greens</span></div><div class="gallery-tile tile5"><span>Seafood Box</span></div><div class="gallery-tile tile6"><span>Brunch Box</span></div>
+</section></main><footer><p>© 2026 Black Box Eatz. Student website concept.</p></footer><script src="js/script.js"></script></body></html>
